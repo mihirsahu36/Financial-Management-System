@@ -1,5 +1,8 @@
 # Financial-Management-System
 
+
+Our Financial Management System utilizes intuitive line graphs to track income and expenses, aiding budgeting. Users effortlessly categorize transactions, gaining insights into spending patterns. Customizable categories ensure accuracy, with data securely stored in MongoDB.
+
 Do git clone
 
 cd to backend and npm i
