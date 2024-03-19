@@ -13,5 +13,3 @@ Make changes in the .env file for MONGO_URI accordingly
 
 Go to backend gitbash and do npm start
 Go to frontend gitbash and do npm start
-# Financial-Management-System
-# Financial-Management-System
